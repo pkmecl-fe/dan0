@@ -3,3 +3,6 @@ neko zacetno besedilo.
 
 
 nova funkcija.
+
+
+še ena nova funkcija

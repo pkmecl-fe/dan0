@@ -5,7 +5,7 @@ neko zacetno besedilo.
 nova funkcija.
 
 
-še ena nova funkcija
+boljsa implementacija funkcije 2.
 
 
 veliko nove kode
